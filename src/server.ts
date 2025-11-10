@@ -23,7 +23,7 @@ import {
   loadDataFromSheets,
   saveDataToSheets,
   Transaction,
-} from '../../frontend/lib/googleSheets';
+} from '../lib/googleSheets';
 
 const app = express();
 
